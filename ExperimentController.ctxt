@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\r\n\ Experiment\ Controller\ to\ compare\ the\ runtime\ taken\ between\ timeGetValue\ and\ timeGetValueInteger\r\n\r\n\ @author\ Shakh\ Saidov\r\n
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfItems\ seed\ sorter
+comment2.target=double\ timeGetRandom(int,\ int,\ int)
+comment2.text=\r\n\ Fills\ the\ list\ with\ random\ integers\ from\ 0-200.\ Gets\ the\ run-time\ of\ using\ getIndex(),\ with\ a\ random\ value\ between\ the\ range\r\n\ @param\ int\ numberOfItems\r\n\ @param\ int\ seed\r\n\ @return\ Avg\ Runtime\r\n
+comment3.params=numberOfItems\ seed\ sorter
+comment3.target=double\ timeGetReverse(int,\ int,\ int)
+comment4.params=numberOfItems\ seed\ sorter
+comment4.target=double\ timeGetAlmost(int,\ int,\ int)
+numComments=5
