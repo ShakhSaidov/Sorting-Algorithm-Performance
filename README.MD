@@ -1,5 +1,5 @@
 **PROJECT TITLE:** Sorting Algorithms Performance\
-**PURPOSE OF PROJECT:** Study how the theoretical analysis of a variety of sorting algorithms compares with their actual performance.\
+**PURPOSE OF PROJECT:** Learned how the sorting algorithms - BubbleSort, InsertionSort, MergeSort, SelectionSort, QuickSort -compare with their performance.\
 **VERSION or DATE:** v1.3\
 **HOW TO START THIS PROJECT:** Require BlueJ or any IDE that supports Java\
 **AUTHORS:** Shakh Saidov and Ali Sultan\
